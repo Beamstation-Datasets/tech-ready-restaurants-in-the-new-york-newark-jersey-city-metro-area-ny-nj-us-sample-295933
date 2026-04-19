@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a1be9a67-d2f8-40db-b68d-fb2395b7c615",
+  "export_job_id": "83f15c64-7fe3-47dd-b136-ab73965acf3c",
   "id_short": 295933,
-  "published_at": "2026-04-17T07:18:02Z",
+  "published_at": "2026-04-19T07:24:23Z",
   "repo_name": "tech-ready-restaurants-in-the-new-york-newark-jersey-city-metro-area-ny-nj-us-sample-295933",
   "sample_asset_name": "beamstation_295933_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/295933/beamstation_295933_restaurants-us-newyorknewarkjerseycitynynj_SAMPLE_DIST.csv",
   "sample_records": 23,
   "sample_sha256": "468d4e7955608f44c8095a30c38abddc00bb2b10ef6fba6112409799e51416bc",
   "sample_size_bytes": 98787,
-  "total_records": 307
+  "total_records": 231
 }
